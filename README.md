@@ -18,11 +18,11 @@ Our vision is to empower farmers with guaranteed market access and income stabil
 
 ## Contract Details
 
-- **Contract Address**: `0x126Cc6C3aD1F2D5Ae76c6933e274Bfe795C885E1`
+- **Contract Address**: `0x7F64367404fb0E19FC78B99F8eF4188a465ac373`
 - **Network**: Mantle Sepolia Testnet
 ## Deployment
 
-- **Contract Address**: [View on Explorer](https://explorer.sepolia.mantle.xyz/address/0x126Cc6C3aD1F2D5Ae76c6933e274Bfe795C885E1)
+- **Contract Address**: [View on Explorer](https://explorer.sepolia.mantle.xyz/address/0x7F64367404fb0E19FC78B99F8eF4188a465ac373)
 - **Coin Used**: MNT
 
 
